@@ -1,19 +1,42 @@
 # Write your code here!
+require 'pry'
 
 def game_hash
   
   data = {
-            :home  
+            home: {
+              
+                    team_name: " ",
+                    
+                    colors: [ ],
+                    
+                    players: []
+              
+            }, 
     
     
-            :away
+            away: {
+              
+                    team_name: " ",
+                    
+                    colors: [ ],
+                    
+                    players: []
+              
+              
+              
+            }
     
     
   }
   
+
+
+
+return data
   
 end
 
 
-
+binding.pry
 
