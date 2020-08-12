@@ -6,7 +6,7 @@ def game_hash
   data = {
             home: {
               
-                    team_name: " ",
+                    team_name: "Brooklyn Nets",
                     
                     colors: [ ],
                     
