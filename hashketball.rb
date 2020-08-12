@@ -13,7 +13,7 @@ def game_hash
                     players: [
                               {                      
                                 player_name: " ",
-                                number:     ,
+                                number: 1    ,
                                 shoe:       ,
                                 points:     ,
                                 rebounds:   ,
