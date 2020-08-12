@@ -137,8 +137,7 @@ def game_hash
               
             }
   
-
-
+  }
 
   return data
   
