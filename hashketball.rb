@@ -75,7 +75,7 @@ def game_hash
               
                     team_name: "Charlotte Hornets",
                     
-                    colors: ["Black", "White" ],
+                    colors: ["Turquoise", "Purple"],
                     
                     players: [
                               {                      
