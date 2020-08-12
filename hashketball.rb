@@ -1,6 +1,19 @@
 # Write your code here!
 
-game_hash
+def game_hash
+  
+  data = {
+            :home  
+    
+    
+            :away
+    
+    
+  }
+  
+  
+end
+
 
 
 
